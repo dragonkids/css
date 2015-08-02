@@ -1,7 +1,7 @@
 {
   "room": "ST-ARMY",
   "author": "-DONT_STOP-",
-  "css":"https://raw.githubusercontent.com/dragonkids/css/master/ccs.css",
+  "css":"https://rawgit.com/dragonkids/css/master/ccs.css",
   "rules":{
     "allowAutorespond": true,
     "allowAutowoot":true,
