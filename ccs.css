@@ -10,6 +10,10 @@
 /************/
 
 /* Quit DJing Dialogue Box */
+#room-bar .icon-room {
+        background: url(https://chilloutmusic.fm/img/theme/Icons/www.png); 
+        
+}
 #dialog-confirm
 {
         background:             rgba(0, 0, 0, 1) !important;
