@@ -1976,14 +1976,14 @@
 [data-cid^="4335174"] .msg .from .un
 {
         /* Plava */
-        color:                   rgba(0, 255, 255, 0)) !important;
+        color:                   rgba(0, 255, 255, 1)) !important;
 }
 
-/* That Random Guy */
-[data-cid^="4105479"] .msg .from .un
+/* -RELAX- */
+[data-cid^="3856653"] .msg .from .un
 {
         /* Orange */
-        color:                   rgba(0, 255, 255, 1)) !important;
+        color:                   rgba(255,153,51, 1)) !important;
 }
 
 /* Kirby */
