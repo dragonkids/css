@@ -1398,12 +1398,16 @@
 /********/
 
 /* -DONT_STOP- */
-#chat-messages .id-4335174 .badge-box i.bdg
-{ 
-        background-image:       url('http://i.imgur.com/Y9ovXTd.png?1'); 
-        background-size:        cover; 
+
+.id-4335174 .msg .from .icon-chat-manager { 
+    background: url('https://dazzuh.ovh/plug/bot.png') !important;
 }
 
+.id-8777285 span.un.clickable { 
+color: rgb(66, 165, 220) !important;
+}
+
+}
 /* KᴏᴠᴀʟsᴋA */
 #chat-messages .id-3613086 .badge-box i.bdg
 { 
@@ -1418,6 +1422,7 @@
 }
 
 /* -RELAX- */
+
 #chat-messages .id-3856653 .badge-box i.bdg
 { 
         background-image:       url('http://i.imgur.com/dLEJS63.png?1'); 
