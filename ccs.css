@@ -11,7 +11,12 @@
 
 /* Quit DJing Dialogue Box */
 #room-bar .icon-room {
-        background: url(https://chilloutmusic.fm/img/theme/Icons/www.png); 
+        background: url(http://i.imgur.com/8ktvbv5.png?1); 
+        
+}
+.icon-site-logo { 
+        background: url('http://i.imgur.com/ojxMsqR.png?1') repeat scroll 0% 0% transparent; 
+        background-position: 0px 0px; 
         
 }
 #dialog-confirm
