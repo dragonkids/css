@@ -1,6 +1,7 @@
 {
   "room": "ST-ARMY",
   "author": "-DONT_STOP-",
+  "icon": "http://i.imgur.com/LaaJnh5.jpg?1",
   "css":"https://rawgit.com/dragonkids/css/master/ccs.css",
   "rules":{
     "allowAutorespond": false,
