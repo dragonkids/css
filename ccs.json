@@ -3,7 +3,7 @@
   "author": "-DONT_STOP-",
   "css":"https://rawgit.com/dragonkids/css/master/ccs.css",
   "rules":{
-    "allowAutorespond": true,
+    "allowAutorespond": false,
     "allowAutowoot":true,
     "allowAutojoin":true,
     "allowAutograb":true,
@@ -41,7 +41,7 @@
   },
   "autocomplete": [],
   "emotes":{
-    "firelenny":"http://i.imgur.com/jleilmo.gif",
+    "secbajo":"http://i.imgur.com/YblYe8V.jpg?1",
     "gsheart":"http://i.imgur.com/JMcr6ag.png",
     "doncat": "http://orig09.deviantart.net/443e/f/2015/168/2/7/pusheen_icon_2_by_captaingam-d8xqk8y.gif",
     "doncatnoodles":"http://fc07.deviantart.net/fs71/f/2014/359/e/5/pusheen_eating_ramen_by_pikuniku-d8b5irh.gif",
