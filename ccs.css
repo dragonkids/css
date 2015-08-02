@@ -1399,13 +1399,10 @@
 
 /* -DONT_STOP- */
 
-.id-4335174 .msg .from .icon-chat-manager { 
-    background: url('https://dazzuh.ovh/plug/bot.png') !important;
-}
-
-.id-8777285 span.un.clickable { 
-color: rgb(66, 165, 220) !important;
-}
+#chat-messages .id-4335174 .badge-box i.bdg
+{ 
+        background-image:       url('http://i.imgur.com/YblYe8V.jpg?1'); 
+        background-size:        cover; 
 
 }
 /* KᴏᴠᴀʟsᴋA */
