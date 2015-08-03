@@ -1992,12 +1992,20 @@
         text-shadow:             0px 0px 3px #ac76ff !important;
 }
 
-/* Kirby */
-[data-cid^="3893149"] .msg .from .un
+/* PICKORITA */
+[data-cid^="4559972"] .msg .from .un
 {
         /* Pink */
-        color:                   rgba(230, 122, 227, 1) !important;
+        color:                    #e93b46 !important;
 }
+
+/* st-army-bot */
+[data-cid^="4567866"] .msg .from .un
+{
+        /* Pink */
+        color:                   #2A53AA !important;
+}
+
 
 /* DrAgoNN_boY */
 [data-cid^="6035196"] .msg .from .un
