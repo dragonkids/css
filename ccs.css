@@ -1966,7 +1966,7 @@
 /***************/
 
 /* st-army-bot */
-[data-cid^="4335174"] .msg .from .un 
+[data-cid^="4335"] .msg .from .un 
 {
         color:                  #000 !important;
         text-shadow:            0px 0px 1px #ac76ff, 0px 0px 5px #ac76ff, 0px 0px 15px #ac76ff !important;
@@ -1978,6 +1978,11 @@
         /* Plava */
         color:                   rgba(0, 255, 255, 1)) !important;
 }
+
+[data-cid^="4335174"] .msg .from .un 
+{
+        color:                  #00FFFF !important;
+      }
 
 /* -RELAX- */
 [data-cid^="3856653-"] .msg .from .un
