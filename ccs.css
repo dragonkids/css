@@ -849,10 +849,10 @@ rs-skip-button .icon-skip:hover
 #vote #woot:hover
 {
         opacity:                1;
-        -webkit-box-shadow:     inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
-        -moz-box-shadow:        inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
-        -o-box-shadow:          inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
-        box-shadow:             inset 0 -5px 0 0 rgba(84, 123, 201, 1) !important;
+        -webkit-box-shadow:     inset 0 -61px 0 0 rgba(144, 173, 47, 1) !important;
+        -moz-box-shadow:        inset 0 -61px 0 0 rgba(144, 173, 47, 1) !important;
+        -o-box-shadow:          inset 0 -61px 0 0 rgba(144, 173, 47, 1) !important;
+        box-shadow:             inset 0 -61px 0 0 rgba(144, 173, 47, 1) !important;
 }
 #vote #grab:hover
 {
