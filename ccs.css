@@ -1860,7 +1860,7 @@
         color:                   rgba(0, 255, 255, 1)) !important;
 }
 .app-right .id-4335174 .msg .from .icon-chat-host { 
-    background: url('https://dazzuh.ovh/plug/roseicon.png') !important;
+    background: url('http://i.imgur.com/bL8CRMM.jpg?1') !important;
 }
 
 
@@ -1877,11 +1877,19 @@
         text-shadow:             0px 0px 3px #ac76ff !important;
 }
 
+.app-right .id-3856653 .msg .from .icon-chat-host { 
+    background: url('http://i.imgur.com/bUD8vCS.png?1') !important;
+}
+
 /* PICKORITA */
 [data-cid^="4559972"] .msg .from .un
 {
         /* Pink */
         color:                    #e93b46 !important;
+}
+
+.app-right .id-4559972 .msg .from .icon-chat-host { 
+    background: url('http://i.imgur.com/2p8THcn.png?1') !important;
 }
 
 /* st-army-bot */
