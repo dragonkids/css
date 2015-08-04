@@ -1,13 +1,4 @@
-/*  Community Theme Styling */
-/*  by -DONT-STOP- */
-
-/********/
-/*TITLES*/
-/********/
-
-/************/
-/*DIALOG BOX*/
-/************/
+/* EDITED BY -DONT_STOP- */
 
 /* Quit DJing Dialogue Box */
 #room-bar .icon-room {
@@ -403,7 +394,7 @@
         box-shadow:             inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
 }
 
-#rs-skip-button .icon-skip:hover 
+rs-skip-button .icon-skip:hover 
 {
         -webkit-animation:      shift .80s ease-in-out !important;
         -moz-animation:         shift .80s ease-in-out !important;
@@ -430,7 +421,6 @@
 
 #app-menu .button:hover
 {
-        /* Set to +5 and not -5 because -5 does not appear */
         -webkit-box-shadow:     inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
         -moz-box-shadow:        inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
         -o-box-shadow:          inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
@@ -865,7 +855,7 @@
 /* WOOT GRAB MEH */
 #meh, #woot, #grab
 {
-        opacity:                0.6;
+        opacity:                0;
         -webkit-transition:     all 0.3s ease;
         -moz-transition:        all 0.3s ease;
         -o-transition:          all 0.3s ease;
@@ -875,7 +865,7 @@
 #vote:hover > #grab, 
 #vote:hover > #meh
 {
-        opacity:                0.75;
+        opacity:                0;
 }
 #vote #woot:hover, 
 #vote #grab:hover, 
