@@ -518,7 +518,7 @@
 /* Chat Header */
 #chat-header
 {
-        background:             rgba(0, 0, 0, 1) !important;
+        background:             rgba(0, 0, 0, 0.4) !important;
 }
 
 #chat-header #chat-sound-button,
