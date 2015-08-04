@@ -1859,6 +1859,10 @@
         /* Plava */
         color:                   rgba(0, 255, 255, 1)) !important;
 }
+.app-right .id-4335174 .msg .from .icon-chat-host { 
+    background: url('https://dazzuh.ovh/plug/roseicon.png') !important;
+}
+
 
 [data-cid^="4335174"] .msg .from .un 
 {
