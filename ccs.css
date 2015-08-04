@@ -1862,6 +1862,13 @@
 .app-right .id-4335174 .msg .from .icon-chat-host { 
     background: url('http://i.imgur.com/bL8CRMM.jpg?1') !important;
 }
+#chat .emote .text
+{
+        color:                  rgba(89, 174, 255, 0.4) !important;
+       font-weight:             bold !important;
+        
+}
+
 
 
 [data-cid^="4335174"] .msg .from .un 
