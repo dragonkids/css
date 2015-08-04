@@ -11,7 +11,7 @@
     "allowSmartVote": true,
     "allowEmotes":true,
     "allowShowingMehs": true,
-    "forceSmartVote": false
+    "forceSmartVote": true
     
   },
   "ccc":{
@@ -28,7 +28,7 @@
     
   },
   "images":{
-    "background": null,
+    "background": "http://www.elektronika.ba/img-cont/c/c_753_irsw_v1_1.jpg",
     "playback": "http://www.weebly.com/uploads/4/9/0/3/49038233/4394376_orig.jpg",
     "admin":"http://i.imgur.com/jAhVtVF.png",
     "ambassador": "http://i.imgur.com/HWucg1I.png",
