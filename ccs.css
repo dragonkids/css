@@ -351,6 +351,23 @@
         background:             rgba(0, 0, 0, 0) !important;
 }
 
+#rs-skip-button
+{
+        /* Prevents Flicker Issues */
+        -webkit-box-shadow:     inset 0 0 0 0 rgba(255, 255, 44, 0.9) !important;
+        -moz-box-shadow:        inset 0 0 0 0 rgba(146, 90, 255, 0) !important;
+        -o-box-shadow:          inset 0 0 0 0 rgba(146, 90, 255, 0) !important;
+        box-shadow:             inset 0 0 0 0 rgba(146, 90, 255, 0) !important;
+}
+
+#history-button
+{
+        /* Prevents Flicker Issues */
+        -webkit-box-shadow:     inset 0 0 0 0 rgba(0, 156, 221, 0);
+        -moz-box-shadow:        inset 0 0 0 0 rgba(0, 156, 221, 0);
+        -o-box-shadow:          inset 0 0 0 0 rgba(0, 156, 221, 0);
+        box-shadow:             inset 0 0 0 0 rgba(0, 156, 221, 0);
+}
 
 #rs-skip-button, 
 #history-button
@@ -377,6 +394,13 @@
         box-shadow:             inset 0 5px 0 0 rgba(0, 156, 221, 1) !important;
 }
 
+rs-skip-button .icon-skip:hover 
+{
+        -webkit-animation:      shift .80s ease-in-out !important;
+        -moz-animation:         shift .80s ease-in-out !important;
+        -o-animation:           shift .80s ease-in-out !important;
+        animation:              shift .80s ease-in-out !important;
+}
 
 /* Plug Logo Menu */
 #app-menu .button, 
@@ -1241,7 +1265,68 @@
         }
 }
 
+/* Spins */
+@keyframes bigSpin
+{
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    
+    33% {
+        -webkit-transform: rotate(-20deg);
+        -moz-transform: rotate(-20deg);
+        -o-transform: rotate(-20deg);
+        transform: rotate(-20deg);
+    }
 
+    66% {
+        -webkit-transform: rotate(20deg);
+        -moz-transform: rotate(20deg);
+        -o-transform: rotate(20deg);
+        transform: rotate(20deg);
+    }
+    
+    100% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}
+
+@keyframes smallSpin
+{
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    
+    33% {
+        -webkit-transform: rotate(-5deg);
+        -moz-transform: rotate(-5deg);
+        -o-transform: rotate(-5deg);
+        transform: rotate(-5deg);
+    }
+
+    66% {
+        -webkit-transform: rotate(5deg);
+        -moz-transform: rotate(5deg);
+        -o-transform: rotate(5deg);
+        transform: rotate(5deg);
+    }
+    
+    100% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+}
 
 /* X Shift */
 @keyframes shift
@@ -1392,7 +1477,7 @@
 /* Mehemed */
 #chat-messages .id-6049833 .badge-box i.bdg
 {
-        background-image:       url('http://www.seeklogo.net/wp-content/uploads/2012/12/windows-8-icon-logo-vector.png');
+        background-image:       url('http://i.imgur.com/OJZqg2l.png');
         background-size:        cover;
 }
 
