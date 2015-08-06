@@ -40,7 +40,7 @@
 #dialog-confirm .cancel
 {
         background:             rgba(0, 0, 0, 1);
-        color:                  rgba(128, 134, 145, 1);
+        color:                  rgba(128, 0, 0, 1);
         -webkit-transition:     all 0.3s linear;
         -moz-transition:        all 0.3s linear;
         -o-transition:          all 0.3s linear;
