@@ -2,7 +2,7 @@
 
 /* Quit DJing Dialogue Box */
 #room-bar .icon-room {
-        background: url(http://i.imgur.com/IUrL078.png?2); 
+        background: url(http://i.imgur.com/8ktvbv5.png?1); 
         
 }
 .icon-site-logo { 
@@ -829,7 +829,7 @@
 /* DJ */
 #dj-button .left
 {
-        background:             rgba(40,44,53,1) !important;
+        background:             rgba(200,0,0,1) !important;
 }
 #dj-button
 {
