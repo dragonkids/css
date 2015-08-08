@@ -1,6 +1,9 @@
 /* EDITED BY -DONT_STOP- */
 
 /* Quit DJing Dialogue Box */
+#rcs-progress-container {
+    height:     10px;
+}
 
 #rcs-progress-container .bar {
     background:                  rgba(198, 0, 0, 0,8);
