@@ -10,6 +10,15 @@
     bottom: 0px;
     background-color: #141519;
 }
+
+#rcs-progress-container .bar {
+    height: 100%;
+    width: 0%;
+    background-color:  #ff2c2c;
+    -webkit-transition: width 2s;
+    transition: width 20s;
+}
+
 #room-bar .icon-room {
         background: url(http://i.imgur.com/8ktvbv5.png?1); 
         
