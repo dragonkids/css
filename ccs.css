@@ -1,7 +1,7 @@
 /* EDITED BY -DONT_STOP- */
 
 /* Quit DJing Dialogue Box */
-#rcs-progress-container {
+#rcs-progress-container: hover {
     height:     10px;
 }
 
@@ -850,7 +850,7 @@
         -moz-transition:        all 0.3s ease;
         -o-transition:          all 0.3s ease;
         transition:             all 0.3s ease;
-        height: 50px;
+        
 }
 #dj-button:hover
 {
