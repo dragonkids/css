@@ -5,6 +5,7 @@
 #rcs-progress-container .bar {
     background:                  rgba(198, 0, 0, 0,8);
         height:                      7px;
+        width:                       10pc;
 }
 
 #room-bar .icon-room {
