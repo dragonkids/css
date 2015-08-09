@@ -808,7 +808,7 @@
 #vote:hover > #grab, 
 #vote:hover > #meh
 {
-        opacity:                0;
+        opacity:                0.4;
 }
 #vote #woot:hover
 {
@@ -845,7 +845,7 @@
 }
 #dj-button
 {
-        opacity:                0.6;
+        opacity:                0.4;
         -webkit-transition:     all 0.3s ease;
         -moz-transition:        all 0.3s ease;
         -o-transition:          all 0.3s ease;
