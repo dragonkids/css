@@ -853,12 +853,12 @@
         
 }
 #dj-button:hover
-{
-        opacity:                1;
-        -webkit-box-shadow:     inset -5px 5px 0 0 rgba(0, 0, 201, 1) !important;
-        -moz-box-shadow:        inset -5px 5px 0 0 rgba(0, 0, 201, 1) !important;
-        -o-box-shadow:          inset -5px 5px 0 0 rgba(0, 0, 201, 1) !important;
-        box-shadow:             inset -5px 5px 0 0 rgba(0, 0, 201, 1) !important;
+{        
+         opacity:                1;
+        -webkit-box-shadow:     inset 230px 30.5px 0 0 rgba(0, 0, 201, 1) !important;
+        -moz-box-shadow:        inset 230px 30.5px 0 0 rgba(0, 0, 201, 1) !important;
+        -o-box-shadow:          inset 230px 30.5px 0 0 rgba(0, 0, 201, 1) !important;
+        box-shadow:             inset 230px 30.5px 0 0 rgba(0, 0, 201, 1) !important;
         
 }
 
