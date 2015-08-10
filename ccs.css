@@ -871,7 +871,10 @@
         box-shadow:             inset 230px 30.5px 0 0 rgba(0, 181, 230, 1) !important;
         
 }
-
+#rs-eta {
+    font-size: small;
+    color: #00000
+}
 
 /* Delete Chat Hover */
 #chat .delete-button
