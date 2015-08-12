@@ -1,6 +1,9 @@
 /* EDITED BY -DONT_STOP- */
 
 /* Quit DJing Dialogue Box */
+#app:hover{
+        transform:rotateZ(18deg)
+}
 #rcs-progress-container: hover {
     height:     10px;
      color:                  rgba(198, 0, 0, 1);
@@ -1888,6 +1891,7 @@
     -o-animation:fadein 1s;
     animation:fadein 1s;
 }
+
 
 /***************/
 /*NAME STYLINGS*/
