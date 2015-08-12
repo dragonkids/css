@@ -591,9 +591,7 @@
 
 /* Icon Hover in User List */
 #user-lists .header .button.room i,
-#user-lists .header .button.staff{
-        background: url(http://i.imgur.com/QaAfRK0.png?1);
-}
+#user-lists .header .button.staff,
 #user-lists .header .button.bans,
 #user-lists .header .button.mutes,
 #user-lists .header .button.ignored
