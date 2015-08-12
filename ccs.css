@@ -701,6 +701,15 @@
 {
         opacity: 1;
 }
+#app .app-header .right-meta #chat-button:hover,
+#app .app-header .right-meta #users-button:hover,
+#app .app-header .right-meta #waitlist-button:hover,
+#app .app-header .right-meta #friends-button:hover,
+#app .app-header .right-meta #rcs-appright-button:hover
+{
+        transform all 0.9s;
+        transform:rotatey(720deg)
+}
 
 /********/
 /*FOOTER*/
