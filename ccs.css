@@ -566,6 +566,17 @@
 {
         opacity:                0.5;
 }
+#chat-header #chat-sound-button:hover,
+#chat-header #chat-emoji-button:hover,
+#chat-header #chat-timestamp-button:hover,
+#chat-header #chat-popout-button:hover,
+#chat-header #chat-mentions-button:hover,
+#chat-header #rcs-clearchat:hover
+       {
+  
+    transform:rotateZ(-360deg);
+}
+
 
 #chat-header #chat-sound-button:hover,
 #chat-header #chat-emoji-button:hover,
