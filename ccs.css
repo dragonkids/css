@@ -689,6 +689,9 @@
 {
         opacity: 0.4;
 }
+{
+    transform: rotateX(360deg);
+}
 
 #app .app-header .right-meta #chat-button:hover,
 #app .app-header .right-meta #users-button:hover,
