@@ -1,6 +1,10 @@
 /* EDITED BY -DONT_STOP- */
 
 /* Quit DJing Dialogue Box */
+#footer-user .info .bar .progress{
+background: rgba(239,60,91,1)
+}
+
 
 #rcs-progress-container: hover {
     height:     10px;
